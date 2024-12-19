@@ -18,4 +18,10 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./Imagem.jpg "Optional title")
+
+### Esse foi o único jeito que funcionou no desafio 
+
+- Devido às atualizações dos browsers, esse Método de ataque "Site Cloner" pode não funcionar.
+
+- Caso isso ocorra, utilize o Método "Web Templates". Aperte entre e escolha opção "Google", essa ação gerará uma página de login do google falsa para obter as informações de login.
